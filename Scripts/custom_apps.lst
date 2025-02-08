@@ -6,7 +6,7 @@
 
 # --------------------------------------------------- // Dependencies
 xdg-desktop-portal-gtk                                 # xdg desktop portal using gtk
-# emote                                                # emoji picker gtk3
+emote                                                # emoji picker gtk3
 
 # --------------------------------------------------- // Gaming
 steam                                                  # gaming platform
@@ -20,4 +20,19 @@ spotify                                                # proprietary music strea
 spicetify-cli                                          # cli to customize spotify client
 
 # --------------------------------------------------- // Apps
-# neovim                                               # vim based text editor
+neovim                                               # vim based text editor
+
+google-chrome-stable                                   # web browser
+ncspot                                                 # spotify client
+clipse                                                 #clipboard manager 
+cursor-bin                                             # code editor
+visual-studio-code-bin                                 # code editor
+nemo                                                  # file manager
+nwg-displays                                          # display manager
+obs-studio-git                                         # screen recorder
+obsidian                                             # note taking app
+syncthing                                            # file sync
+dbeaver                                              # database manager
+vesktop                                              # alternative to discord
+btop                                                 # system monitor
+
